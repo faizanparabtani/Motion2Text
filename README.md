@@ -33,3 +33,12 @@ The user can then select the type of note (Text, Drawing)
 Finally the appropriate syntax of creating a new note is used and the request is sent.  
 [Docs](https://dev.evernote.com/doc/articles/core_concepts.php)
 
+### Demo
+Doodling hello faizan
+![Screenshot (111)](https://user-images.githubusercontent.com/52961945/127783199-78b98ef3-e93c-4699-96b2-6d2948e93555.png)  
+![Screenshot (112)](https://user-images.githubusercontent.com/52961945/127783200-9f035f2d-4352-451a-95c8-3f44ab01800e.png)  
+As Save and Exit option is selected makeNote function is called and an attempt is made to create a new note.  
+In the image below we see that the note was successfully created
+![Screenshot (113)](https://user-images.githubusercontent.com/52961945/127783208-5ee2fa45-e4fa-462d-848e-222b902b23c7.png)  
+  
+Made an error as confused i for r in faizan.
