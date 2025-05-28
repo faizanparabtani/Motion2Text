@@ -41,7 +41,7 @@ Set up Evernote Developer Token
 Run:
 
 ```bash
-python motion2text.py
+python doodle.py
 ```
 
 🤝 Contributing
